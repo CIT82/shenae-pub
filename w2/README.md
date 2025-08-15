@@ -15,11 +15,16 @@
 - adjust positioning 
 ### **& Then ..**
 #### 4. Have Coffee (sometimes breakfast)
+*(following activities done without assistance)*
 #### 5. Water the Garden
-#### 6. Check Email/CANVAS
+#### 6. Check Email/CANVAS 
 ### **Afternoon**
+
 #### 1. Work on Schoolwork
 - >CIT-28
 - >CIT 82
 - >ENGLISH-C100
+ 
+ #### View from my Garden in Big Sur
 
+![My Garden](garden.jpeg)
