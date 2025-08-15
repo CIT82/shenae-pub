@@ -25,6 +25,6 @@
 - >CIT 82
 - >ENGLISH-C100
  
- #### View from my Garden in Big Sur
+  View from my Garden in Big Sur
 
 ![My Garden](garden.jpeg)
